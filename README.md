@@ -1,2 +1,2 @@
-# Notes-on-TensorFlow
+# Notes on TensorFlow
 Collected notes on TensorFlow and Keras
